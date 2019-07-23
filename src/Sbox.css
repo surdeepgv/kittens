@@ -1,0 +1,11 @@
+.sbox{
+    border-radius: 9999px;
+    border: 1px solid yellow;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+}
+.sbox:focus{
+    outline:none;
+    border-color:red;
+}
