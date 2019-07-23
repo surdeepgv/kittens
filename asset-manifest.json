@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kittens/static/css/main.e3d8c79f.chunk.css",
+    "main.js": "/kittens/static/js/main.aee56c4e.chunk.js",
+    "main.js.map": "/kittens/static/js/main.aee56c4e.chunk.js.map",
+    "runtime~main.js": "/kittens/static/js/runtime~main.beba78c1.js",
+    "runtime~main.js.map": "/kittens/static/js/runtime~main.beba78c1.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/kittens/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.fda027d4.chunk.js": "/kittens/static/js/2.fda027d4.chunk.js",
+    "static/js/2.fda027d4.chunk.js.map": "/kittens/static/js/2.fda027d4.chunk.js.map",
+    "index.html": "/kittens/index.html",
+    "precache-manifest.0756917b91bf393e12743a4e44603207.js": "/kittens/precache-manifest.0756917b91bf393e12743a4e44603207.js",
+    "service-worker.js": "/kittens/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/kittens/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.e3d8c79f.chunk.css.map": "/kittens/static/css/main.e3d8c79f.chunk.css.map",
+    "static/media/App.css": "/kittens/static/media/Kitty face.cccc18d8.woff"
+  }
+}
